@@ -1,0 +1,10 @@
+C:\Users\USER-PC\Desktop\PayRollManagementApp\PayRollManagementApp\bin\Debug\PayRollManagementApp.exe.config
+G:\lab\PayRollManagementApp\PayRollManagementApp\bin\Debug\PayRollManagementApp.exe.config
+G:\lab\PayRollManagementApp\PayRollManagementApp\obj\Debug\PayRollManagementApp.csprojResolveAssemblyReference.cache
+G:\lab\PayRollManagementApp\PayRollManagementApp\obj\Debug\PayRollManagementApp.Form1.resources
+G:\lab\PayRollManagementApp\PayRollManagementApp\obj\Debug\PayRollManagementApp.Properties.Resources.resources
+G:\lab\PayRollManagementApp\PayRollManagementApp\obj\Debug\PayRollManagementApp.csproj.GenerateResource.Cache
+G:\lab\PayRollManagementApp\PayRollManagementApp\bin\Debug\PayRollManagementApp.exe
+G:\lab\PayRollManagementApp\PayRollManagementApp\bin\Debug\PayRollManagementApp.pdb
+G:\lab\PayRollManagementApp\PayRollManagementApp\obj\Debug\PayRollManagementApp.exe
+G:\lab\PayRollManagementApp\PayRollManagementApp\obj\Debug\PayRollManagementApp.pdb
